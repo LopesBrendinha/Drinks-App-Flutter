@@ -38,8 +38,8 @@ O app tem como objetivo **exercitar consumo de APIs REST** e boas práticas com 
 
 ## 📷 Imagens do App
 
-[Home Screen](./img2.png)
-<!-- ![Detalhes da Bebida](screenshots/detail.png) -->
+![Texto alternativo](img1.png)
+![Texto alternativo](img2.png)
 
 ---
 
@@ -50,4 +50,5 @@ Clone o repositório:
 ```bash
 git clone https://github.com/lopesbrendinha/drinks_app.git
 cd drinks_app
+
 
