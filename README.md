@@ -42,6 +42,7 @@ O app tem como objetivo **exercitar consumo de APIs REST** e boas práticas com 
     <img src="img1.jpg" alt="Home Screen" width="300" />
     <img src="img2.jpg" alt="Detalhes da Bebida" width="300" />
 </div>
+
 ---
 
 ## 🚀 Como Executar
@@ -51,8 +52,8 @@ Clone o repositório:
 ```bash
 git clone https://github.com/lopesbrendinha/drinks_app.git
 cd drinks_app
-
-
+flutter pub get
+flutter run
 
 
 
